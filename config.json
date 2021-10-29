@@ -1,0 +1,11 @@
+{
+    "token": "your token here",
+    "password": "your password here",
+    "prefix": ".",
+    
+    "nitro_sniper": true, 
+    "giveaway_sniper": true,
+
+    "stream_url": "https://twitch.tv/bxlb",
+    "tts_language": "en"
+}
